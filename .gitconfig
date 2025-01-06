@@ -1,0 +1,15 @@
+[safe]
+	directory = /run/media/satyam/Database/Deltacubes_Projects/Backend
+	directory = /run/media/satyam/Database/Web_Learning_Module
+	directory = /run/media/satyam/Database/Web_Projects/sparsh-Backend
+	directory = /run/media/satyam/Database/Deltacubes_Projects/EventDTL-NextJS
+	directory = /run/media/satyam/Database/Projects_test/Backend
+	directory = /run/media/satyam/Database/Projects_test/Client
+	directory = /run/media/satyam/Database/Projects_test/Proj_2
+	directory = /run/media/satyam/Database/Deltacubes_Projects/EventDTL-Backend
+	directory = /run/media/satyam/Database/Flable/new_dashboard
+[alias]
+	cma = !git add . && git commit -m
+[user]
+	email = satyam2001anand@gmail.com
+	name = godspeed-03
